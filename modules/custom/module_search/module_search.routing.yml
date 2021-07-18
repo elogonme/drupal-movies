@@ -1,0 +1,7 @@
+module_search.movielist:
+  path: '/movielist'
+  defaults:
+    _controller: 'Drupal\module_search\Controller\SearchController::movieList'
+    _title: 'Movie Search List'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,4 @@
+name: "Module Search"
+descriptions: "Search for movies from open movie api"
+type: module
+core: 8.x
